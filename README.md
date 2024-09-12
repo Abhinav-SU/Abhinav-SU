@@ -6,7 +6,7 @@ I'm a Master's student in Computer Science at Syracuse University, passionate ab
 
 ### 🔭 Currently working on
 - **Sentiment Analysis Dashboard** – Building an interactive dashboard for analyzing customer sentiments using NLP techniques.
-- **Fitness App** – A simple, easy-to-use app to track fitness activities ([GitHub Repo](link-to-your-repo)).
+- **Fitness App** – A simple, easy-to-use app to track fitness activities .
 - Exploring more **Data Engineering** and **AI/ML** projects.
 
 ### 🌱 Currently learning
