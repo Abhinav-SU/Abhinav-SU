@@ -1,6 +1,3 @@
-
-Here's a template for your GitHub profile's README.md that you can use to showcase your skills, projects, and interests:
-
 Hi, I'm Abhinav Bajpai 👋
 Computer Science Student | Software Developer | Data Enthusiast
 I'm a Master's student in Computer Science at Syracuse University, passionate about solving complex problems through creative and innovative solutions. I specialize in software development, data engineering, and AI/ML, constantly looking for ways to make technology more accessible to everyone.
