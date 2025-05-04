@@ -1,32 +1,63 @@
-# Hi, I'm Abhinav Bajpai 👋
+# Hi there, I'm Abhinav 👋
 
-### Computer Science Student | Software Developer | Data Enthusiast
+🎓 MS in Computer Science @ Syracuse University (Graduating May 2025)  
+🛠️ Aspiring AI/ML Engineer | Backend Developer | System Designer  
+🚀 Ex-TCS | Ex-Meltek Inc | Building Codebase Explainer + Red’s Redemption (Unity Game)
 
-I'm a Master's student in Computer Science at Syracuse University, passionate about solving complex problems through creative and innovative solutions. I specialize in software development, data engineering, and AI/ML, constantly looking for ways to make technology more accessible to everyone.
+---
 
-### 🔭 Currently working on
-- **Sentiment Analysis Dashboard** – Building an interactive dashboard for analyzing customer sentiments using NLP techniques.
-- **Fitness App** – A simple, easy-to-use app to track fitness activities .
-- Exploring more **Data Engineering** and **AI/ML** projects.
+## 🔍 About Me
 
-### 🌱 Currently learning
-- AI/ML algorithms and techniques to build more intelligent systems.
-- Advanced **Data Structures and Algorithms (DSA)**.
-- **NLP (Natural Language Processing)**.
+I'm a hands-on developer who thrives at the intersection of AI, backend systems, and problem-solving. Currently diving deep into:
 
-### 👯 Looking to collaborate on
-- Projects that merge **software development**, **data engineering**, and **AI/ML**.
-- Open-source projects focusing on **cloud computing**, **real-time data systems**, and **machine learning**.
+- 🧠 AI & ML Engineering (targeting roles at NVIDIA, FAANG, and startups)
+- ☁️ Building scalable apps with FastAPI, LlamaIndex, OpenAI, and RAG
+- 🎮 Developing a mobile horror-action game in Unity, based on classic stories
+- 💻 Designing robust systems using Java Spring Boot, PostgreSQL, Kafka & AWS
 
-### 💬 Ask me about
-- Database design, optimization, and management.
-- Building scalable data pipelines and real-time analytics systems.
-- RESTful APIs, Azure cloud solutions, and PostgreSQL.
+---
 
-### 📫 How to reach me
-- **[LinkedIn](https://www.linkedin.com/in/abhi-bajpai96/)**
-- **Email**: abhinavbajpai0296@gmail.com
+## 🔧 Tech Stack
 
-### 📈 GitHub Stats
+**Languages:**  
+`Python` | `Java` | `JavaScript` | `SQL` | `C#`
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-SU&show_icons=true&theme=radical)
+**Frameworks & Tools:**  
+`FastAPI` | `Spring Boot` | `Streamlit` | `Unity` | `LLMs (GPT-4, LlamaIndex)`  
+`PostgreSQL` | `Kafka` | `Docker` | `Git` | `AWS` | `Azure`
+
+**Domains of Focus:**  
+`AI/ML` | `LLM-powered tools` | `System Design` | `Cloud Infrastructure` | `Game Development`
+
+---
+
+## 🚧 Current Projects
+
+### 🔎 Codebase Explainer (AI Developer Tool)
+> An AI-first onboarding & code understanding tool using LlamaIndex + GPT  
+> ⛳ Features: RAG, semantic search, agentic Q&A, persistent DB layer  
+> [In Progress] – **[Read more →](#)**
+
+### 🧟 Red’s Redemption (Mobile Game, Unity)
+> Modern horror-action twist on classic fairy tales. Play as Red seeking revenge.  
+> Currently building: story engine, level design, and combat mechanics.  
+> [Demo coming soon!]
+
+---
+
+## 📜 Certifications
+
+- **Google Cybersecurity Professional Certificate** (Mar 2024) – [Credly](https://www.credly.com/badges/872bd92c-0519-4b4f-bc08-63657c8e507d)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhinavbajpai96/)
+- 💻 [GitHub](https://github.com/abhinavbajpai0296)
+- 📧 abhinavbajpai0296@gmail.com
+
+---
+
+> “Build like you're being watched by future you.”
+
