@@ -8,39 +8,39 @@
 
 ## 🔍 About Me
 
-I'm a hands-on developer who thrives at the intersection of AI, backend systems, and problem-solving. Currently diving deep into:
+I'm a hands-on developer who thrives at the intersection of AI, backend systems, and problem solving. My current focus includes:
 
-- 🧠 AI & ML Engineering (targeting roles at NVIDIA, FAANG, and startups)
-- ☁️ Building scalable apps with FastAPI, LlamaIndex, OpenAI, and RAG
-- 🎮 Developing a mobile horror-action game in Unity, based on classic stories
-- 💻 Designing robust systems using Java Spring Boot, PostgreSQL, Kafka & AWS
+- 🧠 AI & ML engineering (targeting roles at NVIDIA, FAANG and startups)
+- ☁️ Scalable apps with FastAPI, LlamaIndex, OpenAI and RAG
+- 🎮 A mobile horror-action game in Unity based on classic stories
+- 💻 Robust systems using Java Spring Boot, PostgreSQL, Kafka & AWS
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages:**  
-`Python` | `Java` | `JavaScript` | `SQL` | `C#`
+**Languages**  
+Python | Java | JavaScript | SQL | C#
 
-**Frameworks & Tools:**  
-`FastAPI` | `Spring Boot` | `Streamlit` | `Unity` | `LLMs (GPT-4, LlamaIndex)`  
-`PostgreSQL` | `Kafka` | `Docker` | `Git` | `AWS` | `Azure`
+**Frameworks & Tools**  
+FastAPI | Spring Boot | Streamlit | Unity | LLMs (GPT‑4, LlamaIndex)  
+PostgreSQL | Kafka | Docker | Git | AWS | Azure
 
-**Domains of Focus:**  
-`AI/ML` | `LLM-powered tools` | `System Design` | `Cloud Infrastructure` | `Game Development`
+**Domains of Focus**  
+AI/ML | LLM-powered tools | System Design | Cloud Infrastructure | Game Development
 
 ---
 
 ## 🚧 Current Projects
 
 ### 🔎 Codebase Explainer (AI Developer Tool)
-> An AI-first onboarding & code understanding tool using LlamaIndex + GPT  
+> An AI-first onboarding and code-understanding tool using LlamaIndex and GPT  
 > ⛳ Features: RAG, semantic search, agentic Q&A, persistent DB layer  
-> [In Progress] – **[Read more →](#)**
+> [In Progress – Read more](#)
 
 ### 🧟 Red’s Redemption (Mobile Game, Unity)
-> Modern horror-action twist on classic fairy tales. Play as Red seeking revenge.  
-> Currently building: story engine, level design, and combat mechanics.  
+> A modern horror-action twist on classic fairy tales. Play as Red seeking revenge.  
+> Currently building the story engine, level design and combat mechanics.  
 > [Demo coming soon!]
 
 ---
