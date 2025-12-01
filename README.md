@@ -124,14 +124,6 @@ Intelligent resume ranking system using AI embeddings and similarity matching
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-SU&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-SU&layout=compact&theme=tokyonight&langs_count=6)
-
----
-
 ## 🏆 Certifications
 
 - 🔒 **Google Cybersecurity Professional Certificate**  
@@ -141,8 +133,13 @@ Intelligent resume ranking system using AI embeddings and similarity matching
 
 ## 📫 Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavbajpai96/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.bajpai.jobs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinav-SU)
+
+</div>
 
 **Email**: abhinav.bajpai.jobs@gmail.com  
 **LinkedIn**: [linkedin.com/in/abhinavbajpai96](https://www.linkedin.com/in/abhinavbajpai96/)  
@@ -181,6 +178,10 @@ Full-time **Software Engineer** and **Data Engineer** opportunities where I can 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinav-SU&color=brightgreen)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhinav-SU&color=brightgreen&style=flat-square)
 
 ⭐️ From [Abhinav-SU](https://github.com/Abhinav-SU)
+
+</div>
