@@ -1,68 +1,65 @@
 # 👋 Hi, I'm Abhinav Bajpai
 
-**Software Engineer | Backend Development, Cloud Infrastructure & AI Integration**
+**Software Engineer | Database Infrastructure, Python Backend & Cloud Engineering**
 
-I'm a software engineer with 4+ years of experience building scalable backend systems using Java Spring Boot and Python. Currently pursuing my **MS in Computer Science at Syracuse University** while working as a Graduate Research Assistant developing AI-powered applications.
+I'm a software engineer with 4+ years of experience specializing in **database infrastructure and backend API development**. Currently pursuing my **MS in Computer Science at Syracuse University** while working as a Graduate Research Assistant developing intelligent code analysis tools.
 
 ---
 
 ## 💼 Professional Experience
 
-### Graduate Research Assistant @ Syracuse University (June 2025 - Present)
-- Building RAG-based codebase Q&A service using **Python FastAPI, LangChain, and OpenAI/Gemini APIs**
-- Implementing dual-layer persistence with **SQLite and ChromaDB vector database**
-- Optimizing **PostgreSQL** caching layer reducing API calls by 25-30%
-- Reducing developer onboarding time by 30-40% through intelligent code understanding
+### Graduate Research Assistant @ Syracuse University (Jul 2024 - Present)
+- Built **codebase analysis platform using Python FastAPI** reducing external API costs by 85%
+- Implemented **intelligent caching with SHA256 hashing** achieving 99.5% cache hit rate
+- Developed **automated code intelligence using AST parsing** for structural analysis
+- Processing 50-file codebases in under 500ms, saving approximately **$2,000 monthly**
 
 ### Software Developer Intern @ Meltek Inc. (May 2024 - Aug 2024)
-- Engineered **Azure Event Hubs** pipeline processing 50K+ real-time data points daily
-- Implemented **OAuth 2.0** integrations with **MySQL** storage
-- Migrated services to **Azure Logic Apps** reducing infrastructure costs by 45%
-- Ensured 99.9% data integrity for SOC 2 compliance
+- Engineered **Azure Event Hubs pipeline** capturing 50K+ utility data points daily from Con Edison APIs
+- Built **serverless validation layer using Python and Azure Functions** for financial auditability
+- Migrated polling services to **Azure Logic Apps** reducing infrastructure costs by **45%**
+- Ensured **99.9% data integrity** for SOC 2 compliance across distributed cloud infrastructure
 
-### Software Developer @ Tata Consultancy Services (May 2019 - June 2023)
-- Designed microservices architecture using **Java Spring Boot** serving 50K concurrent users
-- Developed **Spring Batch** jobs processing 2M+ learner records daily
-- Optimized **PostgreSQL and Oracle** databases reducing query time by 25%
-- Implemented **CI/CD pipelines** with **Jenkins/GitLab** accelerating deployments by 5x
-- Reduced deployment failures to 0.1% through automated testing
+### Software Developer @ Tata Consultancy Services (May 2019 - Jul 2023)
+- Managed **PostgreSQL database infrastructure for 400K+ employees**
+- Reduced response times **from 8 seconds to under 2 seconds** through primary-replica architecture
+- Implemented **table partitioning by date** improving query speed by **80%**
+- Built **database monitoring system** reducing MTTR from hours to minutes
+- Optimized storage through **automated VACUUM operations**, reclaiming **200GB space**
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI/ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### AI/ML Tools
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ---
 
@@ -70,57 +67,80 @@ I'm a software engineer with 4+ years of experience building scalable backend sy
 
 | Metric | Achievement | Technology |
 |--------|-------------|------------|
-| **Query Performance** | 25% reduction in execution time | PostgreSQL, Oracle, Advanced Indexing |
-| **System Scale** | 50K concurrent users, 99.9% uptime | Java Spring Boot, Microservices |
-| **Data Processing** | 2M+ daily records | Spring Batch, Event-Driven Architecture |
-| **Deployment Speed** | 5x faster releases | Jenkins, GitLab CI, CI/CD Automation |
-| **Cost Optimization** | 45% infrastructure cost reduction | Azure Logic Apps, Serverless |
-| **Code Quality** | 0.1% deployment failure rate | Automated Testing, Quality Gates |
-| **Data Reliability** | 99.9% data integrity | Azure Event Hubs, Data Pipelines |
+| **Response Time** | 8s → 2s (75% improvement) | PostgreSQL Primary-Replica, Query Optimization |
+| **Database Load** | 40% reduction | Primary-Replica Architecture, Connection Pooling |
+| **Query Performance** | 80% improvement | Table Partitioning, Strategic Indexing |
+| **Cost Savings** | 85% API cost reduction ($2K/month) | Intelligent Caching, SHA256 Hashing |
+| **Cache Performance** | 99.5% hit rate (5ms vs 1000ms) | Content-based Caching Strategy |
+| **Infrastructure Cost** | 45% reduction | Azure Serverless, Event-Driven Architecture |
+| **Data Integrity** | 99.9% for SOC 2 compliance | Automated Validation, Quality Checks |
+| **Storage Optimization** | 35% bloat reduction, 200GB reclaimed | Automated VACUUM, Index Rebuilding |
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🤖 TaskWeave - AI Conversation Manager
-**Technologies**: Node.js, TypeScript, Fastify, PostgreSQL, pgvector, Redis
+### 📊 Codebase Analysis Platform
+**Technologies**: Python, FastAPI, AST Parsing, SHA256, Pydantic
 
-Full-stack system for managing conversations across multiple AI platforms (ChatGPT, Claude, Gemini, etc.)
+Intelligent platform for analyzing and comparing code differences across projects
 
 **Key Features**:
-- JWT authentication and session management
-- WebSocket real-time updates with <100ms latency
-- pgvector semantic search for conversation history
-- Intelligent context compression reducing token usage by 40%
-- Redis caching for high-performance retrieval
+- **85% API cost reduction** through content-based caching ($2,000/month savings)
+- **99.5% cache hit rate** with SHA256 content hashing (5ms vs 1000ms)
+- **AST-based metadata extraction** processing 2,791+ lines identifying structural patterns
+- **4 RESTful endpoints** for metadata generation and comparison
+- **100% test coverage** across 1,130 lines of production code
+
+**Impact**: Saves $2,000 monthly, processes 50-file codebases in under 500ms
 
 ---
 
-### 🏥 Hospital Chatbot - Graph RAG System
-**Technologies**: Python, Neo4j, LangChain, Docker
+### 🏥 Healthcare Knowledge Graph Chatbot
+**Technologies**: Python, Neo4j, LangChain, RAG Architecture
 
-Graph-based Retrieval-Augmented Generation system for healthcare data queries
+Graph-based chatbot for intelligent medical query processing
 
 **Key Features**:
-- Neo4j ETL pipeline processing 10,000+ healthcare records
-- 6 node types enabling complex relationship queries
-- Retry logic ensuring 99.9% data import success
-- LangChain integration for natural language understanding
+- **6 entity types** (hospitals, patients, physicians, payers, visits, reviews)
+- **Natural language queries** with relationship-based navigation
+- **Entity extraction and traversal** across healthcare data
+- **RAG architecture** for accurate medical information retrieval
 - Docker containerization for easy deployment
+
+**Impact**: Enables intelligent healthcare data exploration through conversational interface
+
+---
+
+### 🤖 TaskWeave - AI Conversation Manager
+**Technologies**: Node.js, Fastify, PostgreSQL, pgvector, WebSocket, JWT
+
+Conversation management platform for organizing AI assistant interactions
+
+**Key Features**:
+- **17 RESTful API endpoints** with JWT authentication
+- **pgvector semantic search** for conversation history
+- **WebSocket real-time synchronization** across devices
+- Organize and migrate conversations across **ChatGPT, Claude, Gemini**
+- Chrome extension for conversation capture
+
+**Impact**: Solves scattered conversation history problem with semantic search
 
 ---
 
 ### 📄 AI Resume Matcher
 **Technologies**: Python, Streamlit, Google Gemini API, scikit-learn
 
-Intelligent resume ranking system using AI embeddings and similarity matching
+Intelligent resume ranking using AI embeddings and semantic matching
 
 **Key Features**:
-- Google Gemini embeddings for semantic understanding
-- Cosine similarity scoring for job-resume matching
-- Processes 20+ resumes in under 60 seconds
-- 3x speedup through parallel processing (ThreadPoolExecutor)
+- **Google Gemini embeddings** for semantic understanding
+- **Cosine similarity scoring** for job-resume matching
+- Processes **20+ resumes in under 60 seconds**
+- **3x speedup** through parallel processing
 - Interactive Streamlit web interface
+
+**Impact**: Automates resume screening with AI-powered semantic analysis
 
 ---
 
@@ -136,45 +156,47 @@ Intelligent resume ranking system using AI embeddings and similarity matching
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavbajpai96/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.bajpai.jobs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavbajpai0296@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinav-SU)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://abhinavbajpai.online)
 
 </div>
 
-**Email**: abhinav.bajpai.jobs@gmail.com  
+**Email**: abhinavbajpai0296@gmail.com  
 **LinkedIn**: [linkedin.com/in/abhinavbajpai96](https://www.linkedin.com/in/abhinavbajpai96/)  
-**Phone**: (315) 741-8647  
-**Location**: Syracuse, NY
+**Portfolio**: [abhinavbajpai.online](https://abhinavbajpai.online)  
+**Location**: Seattle, WA
 
 ---
 
 ## 🔭 Currently Working On
 
-- Building RAG-based code understanding tool using FastAPI and LangChain
-- Optimizing PostgreSQL database performance for vector embeddings
-- Exploring AI/ML integration patterns for enterprise applications
+- Building intelligent code analysis tools using Python FastAPI and AST parsing
+- Optimizing PostgreSQL database performance with primary-replica architecture
+- Exploring vector databases (pgvector, ChromaDB) for semantic search applications
+- Developing serverless architectures on Azure Event Hubs and Logic Apps
 
 ## 🌱 Learning
 
-- Advanced PostgreSQL optimization techniques
-- Vector database architectures (ChromaDB, pgvector)
-- LangChain and LlamaIndex for production RAG systems
-- Cloud-native application patterns on AWS and Azure
+- Advanced PostgreSQL optimization (partitioning, VACUUM, replication lag monitoring)
+- Vector embeddings and semantic search (pgvector, ChromaDB)
+- Azure cloud services (Event Hubs, Logic Apps, Functions)
+- Python backend best practices (FastAPI, Pydantic, async patterns)
 
 ## 💼 Open To
 
-Full-time **Software Engineer** and **Data Engineer** opportunities where I can leverage my experience in:
-- Backend development (Java Spring Boot, Python)
-- Database optimization and architecture
-- Cloud infrastructure (AWS, Azure)
-- AI/ML integration and RAG systems
+Full-time **Software Engineer** and **Backend Engineer** opportunities where I can leverage my experience in:
+- Database infrastructure and optimization (PostgreSQL, MySQL)
+- Python backend development (FastAPI, API design)
+- Cloud engineering (AWS, Azure serverless)
+- API development and caching strategies
 
 ---
 
 ## 💭 Philosophy
 
-> "Build like you're being watched by future you."  
-> Write code that you'll be proud of six months from now.
+> "Build systems that scale, optimize relentlessly, and maintain 99.9% uptime."  
+> Great engineering is measured in performance gains and reliability metrics.
 
 ---
 
